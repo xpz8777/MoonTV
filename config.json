@@ -85,9 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
           },
-    "naixx": {
-      "api": "https://naixxzy.com/api.php/provide/vod",
-      "name": "naixx"
+    "slapibf": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "slapibf"
     }
   }
 }
