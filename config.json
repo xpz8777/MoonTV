@@ -85,9 +85,54 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
           },
+    "naixx": {
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "name": "naixx"
+                },
     "slapibf": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "slapibf"
+                },
+    "laosebi": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "laosebi"
+                },
+    "bwzyz": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "bwzyz"
+                },
+    "slapibf": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "slapibf"
+                },
+    "iqiyizyapi": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyizyapi"
+                },
+    "apibdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "apibdzy"
+                },
+    "gayapi": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "gayapi"
+                },
+    "slapibf": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "slapibf"
+                },
+    "apiyutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "apiyutu"
+                },
+    "slapibf": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "slapibf"
+                },
+    "xgbbk8": {
+      "api": "https://api.xgbbk8.com/api.php/provide/vod",
+      "name": "xgbbk8"
+                },
     }
   }
 }
